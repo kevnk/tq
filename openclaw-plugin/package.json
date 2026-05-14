@@ -1,7 +1,7 @@
 {
   "name": "openclaw-tq",
   "version": "2.0.0",
-  "description": "tq — Claude Code sessions in tmux for OpenClaw",
+  "description": "[DEPRECATED — use https://github.com/CodefiLabs/tmuxlet instead] tq — Claude Code sessions in tmux for OpenClaw",
   "type": "module",
   "main": "./src/index.ts",
   "peerDependencies": {

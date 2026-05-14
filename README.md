@@ -1,5 +1,9 @@
 # tq — Claude Code via Telegram
 
+> **DEPRECATED — use [tmuxlet](https://github.com/CodefiLabs/tmuxlet) instead.**
+> This repo is archived and the npm package `@codefilabs/tq` is no longer maintained.
+> Please migrate to [CodefiLabs/tmuxlet](https://github.com/CodefiLabs/tmuxlet).
+
 Send a message. Get a Claude Code session. Reply to continue.
 
 ## How It Works

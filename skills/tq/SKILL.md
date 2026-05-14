@@ -1,6 +1,7 @@
 ---
 name: tq
 description: >
+  [DEPRECATED — use https://github.com/CodefiLabs/tmuxlet instead]
   Use when the user mentions "tq", "telegram bot", "queue tasks",
   "tmux sessions", "daemon", "tq status", "tq run", "tq setup",
   or wants to manage Claude Code sessions via Telegram.
@@ -8,6 +9,9 @@ version: 2.0.0
 ---
 
 # tq — Claude Code sessions via Telegram + tmux
+
+> **DEPRECATED — use [tmuxlet](https://github.com/CodefiLabs/tmuxlet) instead.**
+> This skill ships with the unmaintained `@codefilabs/tq` package. Migrate to tmuxlet.
 
 Every Telegram message spawns a Claude Code session in tmux.
 Reply to continue. That's it.

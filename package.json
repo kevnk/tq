@@ -1,7 +1,7 @@
 {
   "name": "@codefilabs/tq",
   "version": "2.1.2",
-  "description": "Claude Code sessions via Telegram + tmux",
+  "description": "[DEPRECATED — use https://github.com/CodefiLabs/tmuxlet instead] Claude Code sessions via Telegram + tmux",
   "bin": {
     "tq": "bin/tq"
   },

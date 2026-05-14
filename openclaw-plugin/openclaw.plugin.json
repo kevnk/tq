@@ -1,7 +1,7 @@
 {
   "id": "tq",
   "name": "tq — Claude Code Sessions",
-  "description": "Spawn and manage Claude Code sessions in tmux via OpenClaw",
+  "description": "[DEPRECATED — use https://github.com/CodefiLabs/tmuxlet instead] Spawn and manage Claude Code sessions in tmux via OpenClaw",
   "kind": "tools",
   "version": "2.0.0",
   "configSchema": {
